@@ -1,0 +1,6 @@
+*~
+__PYCACHE__
+.ipynb_checkpoints
+.DS_Store%
+train/
+test/
