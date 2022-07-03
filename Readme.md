@@ -5,7 +5,23 @@
 - 텐서플로우에서 제공하는 딥러닝 공부 자료를 따라하면 배워가기
 
 
+
+2022-06-10 jkwon updated
+
+- 
+
+
+
 완료 TASK
 
 - Classify_images_of_clothing
   - 2022-06-03 ~ 2022-06-10
+
+- Basic_text_classification
+  - 2022-06-17 ~ 2022-06-25
+  
+
+
+
+
+
