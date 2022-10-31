@@ -1,0 +1,55 @@
+2022-11-01 02:44:00.564 | INFO     | __main__:<module>:34 - ================== App Restarted ==================
+2022-11-01 02:44:49.564 | INFO     | __main__:<module>:39 - ================== App Restarted ==================
+2022-11-01 02:44:57.979 | INFO     | __main__:load_image:58 - queries:<tempfile._TemporaryFileWrapper object at 0x7f301c2ff790>
+2022-11-01 02:44:57.990 | INFO     | __main__:classify_hand_drawn:79 - --- image loaded
+2022-11-01 02:46:51.698 | INFO     | __main__:<module>:39 - ================== App Restarted ==================
+2022-11-01 02:46:59.774 | INFO     | __main__:load_image:58 - queries:<tempfile._TemporaryFileWrapper object at 0x7fd98c3a3610>
+2022-11-01 02:46:59.782 | INFO     | __main__:classify_hand_drawn:79 - --- image loaded
+2022-11-01 02:46:59.910 | INFO     | __main__:classify_hand_drawn:100 - --- output generated
+2022-11-01 02:47:03.145 | INFO     | __main__:load_image:58 - queries:<tempfile._TemporaryFileWrapper object at 0x7fd98c3e53d0>
+2022-11-01 02:47:03.147 | INFO     | __main__:classify_hand_drawn:79 - --- image loaded
+2022-11-01 02:47:03.182 | INFO     | __main__:classify_hand_drawn:100 - --- output generated
+2022-11-01 02:48:03.375 | INFO     | __main__:<module>:39 - ================== App Restarted ==================
+2022-11-01 02:48:15.978 | INFO     | __main__:<module>:39 - ================== App Restarted ==================
+2022-11-01 02:48:24.000 | INFO     | __main__:load_image:58 - queries:<tempfile._TemporaryFileWrapper object at 0x7fda58700fa0>
+2022-11-01 02:48:24.010 | INFO     | __main__:classify_hand_drawn:79 - --- image loaded
+2022-11-01 02:48:24.138 | INFO     | __main__:classify_hand_drawn:100 - --- output generated
+2022-11-01 02:48:26.256 | INFO     | __main__:load_image:58 - queries:<tempfile._TemporaryFileWrapper object at 0x7fda5870c430>
+2022-11-01 02:48:26.258 | INFO     | __main__:classify_hand_drawn:79 - --- image loaded
+2022-11-01 02:48:26.291 | INFO     | __main__:classify_hand_drawn:100 - --- output generated
+2022-11-01 02:48:28.007 | INFO     | __main__:load_image:58 - queries:<tempfile._TemporaryFileWrapper object at 0x7fda58743af0>
+2022-11-01 02:48:28.009 | INFO     | __main__:classify_hand_drawn:79 - --- image loaded
+2022-11-01 02:48:28.043 | INFO     | __main__:classify_hand_drawn:100 - --- output generated
+2022-11-01 02:49:45.108 | INFO     | __main__:<module>:39 - ================== App Restarted ==================
+2022-11-01 02:49:53.045 | INFO     | __main__:load_image:58 - queries:<tempfile._TemporaryFileWrapper object at 0x7f9908740670>
+2022-11-01 02:49:53.054 | INFO     | __main__:classify_hand_drawn:79 - --- image loaded
+2022-11-01 02:49:53.185 | INFO     | __main__:classify_hand_drawn:100 - --- output generated
+2022-11-01 02:50:03.318 | INFO     | __main__:load_image:58 - queries:<tempfile._TemporaryFileWrapper object at 0x7f990874f310>
+2022-11-01 02:50:03.320 | INFO     | __main__:classify_hand_drawn:79 - --- image loaded
+2022-11-01 02:50:03.355 | INFO     | __main__:classify_hand_drawn:100 - --- output generated
+2022-11-01 02:50:05.002 | INFO     | __main__:load_image:58 - queries:<tempfile._TemporaryFileWrapper object at 0x7f99085b2070>
+2022-11-01 02:50:05.004 | INFO     | __main__:classify_hand_drawn:79 - --- image loaded
+2022-11-01 02:50:05.038 | INFO     | __main__:classify_hand_drawn:100 - --- output generated
+2022-11-01 02:54:34.088 | INFO     | __main__:<module>:39 - ================== App Restarted ==================
+2022-11-01 02:54:41.981 | INFO     | __main__:load_image:58 - queries:<tempfile._TemporaryFileWrapper object at 0x7ff70c5d4550>
+2022-11-01 02:54:41.990 | INFO     | __main__:classify_hand_drawn:79 - --- image loaded
+2022-11-01 02:54:42.117 | INFO     | __main__:classify_hand_drawn:100 - --- output generated
+2022-11-01 02:54:47.530 | INFO     | __main__:load_image:58 - queries:<tempfile._TemporaryFileWrapper object at 0x7ff70c5d4df0>
+2022-11-01 02:54:47.532 | INFO     | __main__:classify_hand_drawn:79 - --- image loaded
+2022-11-01 02:54:47.568 | INFO     | __main__:classify_hand_drawn:100 - --- output generated
+2022-11-01 02:54:50.406 | INFO     | __main__:load_image:58 - queries:<tempfile._TemporaryFileWrapper object at 0x7ff70c6602e0>
+2022-11-01 02:54:50.408 | INFO     | __main__:classify_hand_drawn:79 - --- image loaded
+2022-11-01 02:54:50.442 | INFO     | __main__:classify_hand_drawn:100 - --- output generated
+2022-11-01 02:59:38.741 | INFO     | __main__:<module>:39 - ================== App Restarted ==================
+2022-11-01 02:59:45.279 | INFO     | __main__:load_image:58 - queries:<tempfile._TemporaryFileWrapper object at 0x7f51107b9f10>
+2022-11-01 02:59:45.286 | INFO     | __main__:classify_hand_drawn:79 - --- image loaded
+2022-11-01 02:59:45.413 | INFO     | __main__:classify_hand_drawn:100 - --- output generated
+2022-11-01 03:00:32.226 | INFO     | __main__:load_image:58 - queries:<tempfile._TemporaryFileWrapper object at 0x7f51107537f0>
+2022-11-01 03:00:32.228 | INFO     | __main__:classify_hand_drawn:79 - --- image loaded
+2022-11-01 03:00:32.264 | INFO     | __main__:classify_hand_drawn:100 - --- output generated
+2022-11-01 03:00:35.761 | INFO     | __main__:load_image:58 - queries:<tempfile._TemporaryFileWrapper object at 0x7f511078c610>
+2022-11-01 03:00:35.763 | INFO     | __main__:classify_hand_drawn:79 - --- image loaded
+2022-11-01 03:00:35.795 | INFO     | __main__:classify_hand_drawn:100 - --- output generated
+2022-11-01 03:00:42.199 | INFO     | __main__:load_image:58 - queries:<tempfile._TemporaryFileWrapper object at 0x7f511058eaf0>
+2022-11-01 03:00:42.201 | INFO     | __main__:classify_hand_drawn:79 - --- image loaded
+2022-11-01 03:00:42.235 | INFO     | __main__:classify_hand_drawn:100 - --- output generated
